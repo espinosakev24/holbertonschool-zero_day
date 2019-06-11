@@ -1,1 +1,1 @@
-Learning git concepts! xD
+Learning git concepts! it is fun!
